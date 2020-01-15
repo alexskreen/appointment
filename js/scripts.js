@@ -14,7 +14,7 @@ $("#appointmentForm").submit(function(){
     $(".date").text(date);
     $(".hourSelection").text(hourSelection);
     $(".minSelection").text(minSelection);
-    $(".2").text(AMPMSelection);
+    $(".AMPMSelection").text(AMPMSelection);
 
 
 
